@@ -23,6 +23,7 @@ Contact me: *+380664875737*
 ## Education<br/>
 I am studiyng at Kharkiv Technology College; Software development
 
+
 I have finished course Photoshop and Corel Draw at Kharkiv National University of Radioelectronics
 
 ## English level<br/>
