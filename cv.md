@@ -14,13 +14,16 @@ Contact me: *+380664875737*
 - I like to learn new things
 - Have C1 English level
 - I have designed my own Notebook and stickers, don`t have much work experience though
+
 ## Programming languages<br/>
 1. C++
 2. C#
 3. HTML
 4. CSS
 5. Studying JS
-## Education<br/>I am studiyng at Kharkiv Technology College; Software development
+
+## Education<br/>
+I am studiyng at Kharkiv Technology College; Software development
 
 I have finished course Photoshop and Corel Draw at Kharkiv National University of Radioelectronics
 
