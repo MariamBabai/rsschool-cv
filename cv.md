@@ -32,8 +32,3 @@ C1: Advanced
 
 ## My projects<br/>
 **You will see them very soon**
-
-
-feat: add basic page layout
-refactor: apply prettier
-docs: update readme with additional information
