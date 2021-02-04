@@ -1,5 +1,4 @@
 # rsschool-cv
- https://github.com/MariamBabai/rsschool-cv/
- 
+https://mariambabai.github.io/rsschool-cv/ 
 
 
