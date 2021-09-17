@@ -16,11 +16,12 @@ line-height: 22px;
 color: white;
 }
 
-.bold
+ .bold
 {
-    font-weight: 700;
-    font-size: 20 px;
+    font-weight: 780;
+    font-size: 28 px;
     text-transform: uppercase;
+    margin-left: 80px;
 }
 
 .semi-bold
@@ -75,6 +76,8 @@ color: white;
 {
     color: yellow;
     margin-left: 80px;
+    margin-top: 26px;
+    font-size: 17px;
 }
 
 .resume .resume_item
@@ -159,7 +162,7 @@ color: black;
 
 .resume .resume_right .resume_education ul
 {
-    padding-left: 40px;
+    padding-left: 0px;
     overflow: hidden;
 }
 
